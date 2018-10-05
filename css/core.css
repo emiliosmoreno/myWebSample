@@ -42,9 +42,11 @@ body{
 
 
 #tablaIndice tr:nth-child(odd) {
-    background-color:#E6E6E6;
+    background-color: #C6C6C6;
 }
 #tablaIndice tr:nth-child(even) {
-    background-color:#E4E4E4;
+    background-color: #E6E6E6;
 }
-
+#tablaIndice .titulo {
+	background-color: #A0A0A0;
+}
